@@ -8,7 +8,7 @@ const Contact = () => {
       <h2 className="mb-4 text-success fw-bold">Contact Us</h2>
       <p className="mb-5 fs-5">
         Have questions, want to place a special order, or just want to say hi?
-        We'd love to hear from you!
+        We&apos;d love to hear from you!
       </p>
 
       <Row>

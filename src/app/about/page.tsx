@@ -16,7 +16,7 @@ const About = () => {
             farms and coastal communities.
           </p>
           <p>
-            Whether you're a kababayan craving comfort food or a curious
+            Whether you&apos;re a kababayan craving comfort food or a curious
             traveler exploring La Union, <strong>Lutong Agoo</strong> offers a
             flavorful journey through Ilokano heritage—served fresh, hearty, and
             made with love.
@@ -40,7 +40,7 @@ const About = () => {
           <h4>Our Mission</h4>
           <p>
             To deliver authentic Ilocano food made with love and local
-            ingredients, while supporting our community’s culinary and
+            ingredients, while supporting our community&apos;s culinary and
             agricultural roots.
           </p>
         </Col>

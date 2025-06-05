@@ -4,7 +4,7 @@ import { Container, Row, Col, Image } from 'react-bootstrap';
 
 const About = () => {
   return (
-    <Container id="about" className="mt-4">
+    <Container id="about" className="mt-4 vh-100">
       <Row className="align-items-center mb-5">
         <Col md={8}>
           <h2 className="mb-4 text-success fw-bold">About Us</h2>
@@ -60,22 +60,6 @@ const About = () => {
             <li>Sustainability</li>
             <li>Passion for Service</li>
           </ul>
-        </Col>
-      </Row>
-
-      <Row>
-        <h4 className="mb-3">Visit Us</h4>
-        <Col>
-          <iframe
-            title="Agoo La Union Map"
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d36333.16937353689!2d120.34926990522895!3d16.33610508371213!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x339177766de14b31%3A0x87d0091a84653fc4!2sAgoo%2C%20La%20Union!5e1!3m2!1sen!2sph!4v1747311539782!5m2!1sen!2sph"
-            width="100%"
-            height="400"
-            style={{ border: 0 }}
-            allowFullScreen
-            loading="lazy"
-            referrerPolicy="no-referrer-when-downgrade"
-          ></iframe>
         </Col>
       </Row>
     </Container>
